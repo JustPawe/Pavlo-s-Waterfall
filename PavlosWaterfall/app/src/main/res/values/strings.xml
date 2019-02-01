@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Pavlo\'s Waterfall</string>
+    <string name="welcome">Welcome to Pavlo\'s Waterfall</string>
+    <string name="start_game_btn_text">Start Game</string>
+    <string name="edit_rules_btn_text">Edit Rules</string>
+    <string name="how_to_play_btn_text">How to play</string>
+    <string name="add_a_player">Add a player</string>
+    <string name="name">Name:</string>
+    <string name="hint">John, Emily, etc.</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add_player_Btn">Add player</string>
+    <string name="add_players_Btn">Add players</string>
+    <string name="players">Players in game:</string>
+    <string name="everyone_in_Btn">All players in</string>
+    <string name="choose_rule">Choose a new rule</string>
+    <string name="choose_player">Choose the player who has to drink</string>
+    <string name="drink_players">The following players have to drink:</string>
+    <string name="error">Please contact the developer</string>
+    <string name="error_content">Something unexpected happened</string>
+    <string name="rule_in_effect">Create a rule! If someone breaks that rule, they have to drink</string>
+    <string name="choose_mate">Choose a mate!</string>
+    <string name="questionking">The Question King is:</string>
+    <string name="waterfall">"Congratulations! You have a wonderful waterfall!"</string>
+    <string name="and">and</string>
+    <string name="new_mates">New mates created!</string>
+    <string name="choose_drink">Choose someone to drink!</string>
+    <string name="already_mate">This player already your mate</string>
+    <string name="own_mate">You can\'t be your own mate!</string>
+    <string name="player_add_error">Please fill the above details correctly, make sure that the
+    name you enter is not already entered</string>
+    <string name="need_more_players">Please add more players</string>
+    <string name="rule1"> - You have to drink when the app says so</string>
+    <string name="rule2"> - This app is not an excuse for drinking</string>
+    <string name="rule3"> - You have to reveal a card for your turn, by tapping on it</string>
+    <string name="rule4"> - Depending on your card multiple things can happen</string>
+    <string name="card_rule1"> #1 \"2 is You\" means if you got a card with the number 2 on it, you
+    can choose someone to drink</string>
+    <string name="card_rule2"> #2 \"3 is Me\" means if you got a card with the number 3 on it, you
+    have to drink</string>
+    <string name="card_rule3"> #3 \"4 is Floor\" means if you got a card with the number 4 on it,
+    everyone has to touch the floor. The last one has to drink.</string>
+    <string name="card_rule4"> #4 \"5 is Guys\" means if you got a card with the number 5 on it, every
+    guy has to drink</string>
+    <string name="card_rule5"> #5 \"6 is Chicks\" means if you got a card with the number 6 on it,
+    every chick has to drink</string>
+    <string name="card_rule6"> #6 \"7 is Heaven\" means if you got a card with the number 7 on it,
+    everyone has to point to the sky. The last one has to drink.</string>
+    <string name="card_rule7"> #7 \"8 is Mate\" means if you got a card with the number 8 on it,
+    you have to pick one mate, drink when they drink and vice versa</string>
+    <string name="card_rule8"> #8 \"9 is Rhyme\" means if you got a card with the number 9 on it,
+    you have to say a word, then in a chain everyone has to say rhymes to that word. The first
+    who can\'t say a rhyme drinks.</string>
+    <string name="card_rule9"> #9 \"10 is Brand\" means if you got a card with the number 10 on it,
+    you have to say an object, then in a chain everyone has to say brands of that object. The first
+    who can\'t say a brand drinks.</string>
+    <string name="card_rule10"> #10 If you see a Jack, you can pick a rule. If anyone breaks that
+    rule, they have to drink.</string>
+    <string name="card_rule11"> #11 If you see a Queen, it means that you are the Question King.
+    If you ask, a question from any of the players, and they respond to you, they have to drink, but
+    if they respond with a question, you have to drink.</string>
+    <string name="card_rule12"> #12 If you see a King, everyone has to drink</string>
+    <string name="card_rule13"> #13 Waterfall! If you see an Ace, pick up your glass and drink. 7
+    In a Mexican wave the rest of the players start to drink. When the last of the player has drank,
+    everyone can finish drinking.</string>
+    <string name="rule5"> - Enjoy your night</string>
+    <string name="back_to_main_btn_text">Back</string>
+    <string name="edit_rules">Edit Rules</string>
+    <string name="add_new_rules">Add new</string>
+    <string name="add_rule">Add rule</string>
+    <string name="rule_name">Rule description:</string>
+    <string name="rule_ex">You can\'t use your hands for drinking</string>
+    <string name="add_rule_btn">Add Rule</string>
+    <string name="incorrect_form">The rule you gave is either already in use, or it is incorrect</string>
+    <string name="facebook_app_id" translatable="false">1562173820553187</string>
+    <string name="chart">Stats of the night</string>
+    <string name="post">Post \n to Facebook</string>
+    <string name="skip">Skip</string>
+    <string name="save">Save as image</string>
+    <string name="endBtn">End</string>
+    <string name="next_turn">Next turn</string>
+    <string name="everybody">Everybody</string>
+
+
+</resources>
